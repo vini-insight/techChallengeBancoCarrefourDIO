@@ -23,6 +23,6 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'private_key.json'
 
 idProjetoDialogflow = 'INSIRA AQUI O ID DO PROJETO DIALOGFLOW'
 
-5 - basta executar o arquivo "main.py" pelo terminal ou na IDE de sua preferência, mas preicsa estar conectado a internet para tudo funcionar.
+5 - basta executar o arquivo "main.py" pelo terminal ou na IDE de sua preferência, mas precisa estar conectado a internet para tudo funcionar.
 
 
