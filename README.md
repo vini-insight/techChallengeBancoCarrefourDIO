@@ -6,7 +6,9 @@ Jairo Vinicius (viniciusvieira.eu@gmail.com)
 1 - Para que este projeto funcione, você vai precisar das seguintes dependências:
 
 python telegram bot
+
 google api core 1.4.1
+
 dialogflow 0.5.1
 
 2 - no arquivo "main.py", na linha 56, você deve inserir o token do bot do telegram que foi criado (o trecho do código segue a abaixo):
